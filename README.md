@@ -10,4 +10,4 @@
 
 5. Abstract Factory Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/AbstractFactoryPattern)
 
-6. Singelton Pattern - []()
+6. Singelton Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/SingeltonPattern)
