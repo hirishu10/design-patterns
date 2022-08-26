@@ -13,3 +13,5 @@
 6. Singelton Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/SingeltonPattern)
 
 7. Command Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/CommandPattern)
+
+7. Adapter Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/AdapterPattern)
