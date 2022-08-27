@@ -14,4 +14,6 @@
 
 7. Command Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/CommandPattern)
 
-7. Adapter Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/AdapterPattern)
+8. Adapter Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/AdapterPattern)
+
+9. Facade Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/FacadePattern)
