@@ -17,3 +17,5 @@
 8. Adapter Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/AdapterPattern)
 
 9. Facade Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/FacadePattern)
+
+10. Proxy Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/ProxyPattern)
