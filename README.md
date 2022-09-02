@@ -25,3 +25,5 @@
 12. Template Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/TemplatePattern)
 
 13. Composite Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/CompositePattern)
+
+14. Iterator Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/IteratorPattern)
