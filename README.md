@@ -27,3 +27,5 @@
 13. Composite Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/CompositePattern)
 
 14. Iterator Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/IteratorPattern)
+
+15. State Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/StatePattern)
