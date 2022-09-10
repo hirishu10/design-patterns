@@ -29,3 +29,5 @@
 14. Iterator Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/IteratorPattern)
 
 15. State Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/StatePattern)
+
+16. Builder Pattern - [view](https://github.com/hirishu10/design-patterns/tree/main/BuilderPattern)
